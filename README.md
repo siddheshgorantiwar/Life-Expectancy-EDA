@@ -56,8 +56,6 @@ The following columns were dropped from the dataset as they had many missing val
 -   `Polio`
 -   `Diphtheria `
 -   ` HIV/AIDS`
--   ` thinness 1-19 years`
--   ` thinness 5-9 years`
 
 #### Handling Missing Values
 The notebook identified columns with missing values, with the highest percentage being in `Hepatitis_B` at 18.89%.
